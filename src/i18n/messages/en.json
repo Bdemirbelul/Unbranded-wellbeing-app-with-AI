@@ -1,0 +1,109 @@
+{
+  "brand": "Unbranded Wellbeing",
+  "tagline": "Mental, physical, and skin insights — powered by HRV and smart coaching.",
+  "ctaPrimary": "Open the app",
+  "ctaSecondary": "Read the blog",
+  "nav": { "home": "Home", "blog": "Blog", "pricing": "Pricing", "login": "Log in", "register": "Create account" },
+  "appNav": { "dashboard": "Dashboard", "sources": "Data Sources", "skin": "Skin Health", "coach": "AI Coach", "reports": "Reports", "insights": "Insights", "leaderboard": "Leaderboard", "settings": "Settings" },
+  "demo": "Demo environment · Sample data · Not medical advice",
+  "hero": {
+    "badge": "HRV-driven insights · Multi-language · Privacy-first",
+    "title": "Understand your body's",
+    "titleHighlight": "true signals",
+    "description": "Mental, physical, and skin wellbeing — powered by HRV trends, sleep analysis, and an AI coach that helps you make sense of your data.",
+    "ctaPrimary": "Open the app",
+    "ctaSecondary": "Read insights",
+    "features": {
+      "recovery": {
+        "title": "Recovery insights",
+        "description": "HRV trends, readiness scores, and personalized guidance."
+      },
+      "mental": {
+        "title": "Mental wellbeing",
+        "description": "Stress patterns, mood tracking, and habit formation."
+      },
+      "skin": {
+        "title": "Skin health",
+        "description": "Track triggers, routines, and correlations with stress."
+      }
+    }
+  },
+  "blog": {
+    "title": "Understanding your wellbeing",
+    "subtitle": "Insights & Research",
+    "description": "Evidence-based articles on HRV, recovery, sleep, stress, and skin health.",
+    "readTime": "min read",
+    "backToBlog": "Back to blog",
+    "posts": {
+      "the-recovery-loop": {
+        "title": "The Recovery Loop: HRV, Sleep, and Consistency",
+        "excerpt": "A practical framework to interpret HRV trends without overreacting to daily noise."
+      },
+      "stress-without-guessing": {
+        "title": "Stress Without Guessing: Turning Signals into Actions",
+        "excerpt": "How to connect subjective stress, resting heart rate, and sleep debt in a single view."
+      },
+      "skin-as-a-signal": {
+        "title": "Skin as a Signal: A Simple Tracker That Actually Works",
+        "excerpt": "A minimal routine + trigger tracking beats complex plans you won't follow."
+      }
+    }
+  },
+  "features": {
+    "subtitle": "Comprehensive features",
+    "title": "Everything you need to understand your wellbeing",
+    "description": "A complete platform that connects mental, physical, and skin health in one intuitive dashboard.",
+    "items": {
+      "hrv": {
+        "title": "HRV Trends & Analysis",
+        "description": "7, 30, and 90-day views with anomaly detection, baseline tracking, and personalized insights."
+      },
+      "mental": {
+        "title": "Mental Wellbeing",
+        "description": "Stress pattern recognition, mood check-ins, and actionable habit suggestions based on your data."
+      },
+      "physical": {
+        "title": "Physical Recovery",
+        "description": "Readiness scores, training load guidance, and recovery recommendations tailored to your activity."
+      },
+      "skin": {
+        "title": "Skin Health Tracker",
+        "description": "Self-check signals, routine planning, trigger identification, and correlation with stress patterns."
+      },
+      "connectors": {
+        "title": "Data Connectors",
+        "description": "Seamless integration with Apple Health, Android Health Connect, Oura, and other wellness devices."
+      },
+      "multilang": {
+        "title": "Multi-language Support",
+        "description": "Available in English, Spanish, Turkish, and Polish with full localization."
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Trusted by athletes and wellness enthusiasts",
+    "title": "What people are saying",
+    "roles": {
+      "marathon": "Marathon Runner",
+      "tech": "Tech Professional",
+      "yoga": "Yoga Instructor"
+    },
+    "content": {
+      "sarah": "Finally, a tool that connects HRV, sleep, and stress in a way that makes sense. The insights are actionable, not overwhelming.",
+      "marcus": "The AI coach actually understands context. It's not generic advice—it's personalized based on my actual data trends.",
+      "emma": "I love how it tracks skin health alongside recovery. Seeing the correlation between stress and breakouts was eye-opening."
+    }
+  },
+  "login": {
+    "welcome": "Welcome back",
+    "usernamePlaceholder": "Username (Frank or Linda)",
+    "passwordPlaceholder": "Password",
+    "continue": "Continue",
+    "newHere": "New here?",
+    "error": {
+      "empty": "Please enter username and password",
+      "invalid": "Invalid username or password"
+    }
+  }
+}
+

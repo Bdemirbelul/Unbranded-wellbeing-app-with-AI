@@ -1,0 +1,110 @@
+{
+  "brand": "Aplikacja Dobrostanu",
+  "tagline": "Wnioski mentalne, fizyczne i skórne — na bazie HRV i inteligentnego coachingu.",
+  "ctaPrimary": "Otwórz aplikację",
+  "ctaSecondary": "Czytaj blog",
+  "nav": { "home": "Start", "blog": "Blog", "pricing": "Cennik", "login": "Zaloguj", "register": "Załóż konto" },
+  "appNav": { "dashboard": "Panel", "sources": "Źródła danych", "skin": "Zdrowie Skóry", "coach": "Trener AI", "reports": "Raporty", "insights": "Wnioski", "leaderboard": "Ranking", "settings": "Ustawienia" },
+  "demo": "Środowisko demo · Dane przykładowe · To nie jest porada medyczna",
+  "hero": {
+    "badge": "Wnioski oparte na HRV · Wielojęzyczne · Prywatność na pierwszym miejscu",
+    "title": "Zrozum",
+    "titleHighlight": "prawdziwe sygnały swojego ciała",
+    "description": "Dobrostan mentalny, fizyczny i skóry — napędzany trendami HRV, analizą snu i trenerem AI, który pomaga zrozumieć Twoje dane.",
+    "ctaPrimary": "Otwórz aplikację",
+    "ctaSecondary": "Przeczytaj wnioski",
+    "features": {
+      "recovery": {
+        "title": "Wnioski dotyczące regeneracji",
+        "description": "Trendy HRV, wyniki gotowości i spersonalizowane wskazówki."
+      },
+      "mental": {
+        "title": "Dobrostan mentalny",
+        "description": "Wzorce stresu, śledzenie nastroju i kształtowanie nawyków."
+      },
+      "skin": {
+        "title": "Zdrowie skóry",
+        "description": "Śledź czynniki wyzwalające, rutyny i korelacje ze stresem."
+      }
+    }
+  },
+  "blog": {
+    "title": "Zrozumienie swojego dobrostanu",
+    "subtitle": "Wnioski i Badania",
+    "description": "Artykuły oparte na dowodach dotyczące HRV, regeneracji, snu, stresu i zdrowia skóry.",
+    "readTime": "min czytania",
+    "backToBlog": "Powrót do bloga",
+    "posts": {
+      "the-recovery-loop": {
+        "title": "Pętla Regeneracji: HRV, Sen i Spójność",
+        "excerpt": "Praktyczne ramy do interpretacji trendów HRV bez nadmiernej reakcji na codzienny szum."
+      },
+      "stress-without-guessing": {
+        "title": "Stres Bez Zgadywania: Przekształcanie Sygnałów w Działania",
+        "excerpt": "Jak połączyć subiektywny stres, tętno spoczynkowe i dług snu w jednym widoku."
+      },
+      "skin-as-a-signal": {
+        "title": "Skóra jako Sygnał: Prosty Tracker, Który Naprawdę Działa",
+        "excerpt": "Minimalna rutyna + śledzenie czynników wyzwalających przewyższa skomplikowane plany, których nie będziesz przestrzegać."
+      }
+    }
+  },
+  "features": {
+    "subtitle": "Kompleksowe funkcje",
+    "title": "Wszystko czego potrzebujesz, aby zrozumieć swój dobrostan",
+    "description": "Kompletna platforma łącząca zdrowie mentalne, fizyczne i skóry w jednym intuicyjnym dashboardzie.",
+    "items": {
+      "hrv": {
+        "title": "Trendy i Analiza HRV",
+        "description": "Widoki 7, 30 i 90-dniowe z wykrywaniem anomalii, śledzeniem linii bazowej i spersonalizowanymi wnioskami."
+      },
+      "mental": {
+        "title": "Dobrostan Mentalny",
+        "description": "Rozpoznawanie wzorców stresu, kontrole nastroju i sugestie nawyków oparte na Twoich danych."
+      },
+      "physical": {
+        "title": "Regeneracja Fizyczna",
+        "description": "Wyniki gotowości, wskazówki dotyczące obciążenia treningowego i rekomendacje regeneracji dostosowane do Twojej aktywności."
+      },
+      "skin": {
+        "title": "Tracker Zdrowia Skóry",
+        "description": "Sygnały samokontroli, planowanie rutyn, identyfikacja czynników wyzwalających i korelacja ze wzorcami stresu."
+      },
+      "connectors": {
+        "title": "Konektory Danych",
+        "description": "Bezproblemowa integracja z Apple Health, Android Health Connect, Oura i innymi urządzeniami wellness."
+      },
+      "multilang": {
+        "title": "Wsparcie Wielojęzyczne",
+        "description": "Dostępne w języku angielskim, hiszpańskim, tureckim i polskim z pełną lokalizacją."
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Zaufane przez sportowców i entuzjastów wellness",
+    "title": "Co mówią ludzie",
+    "roles": {
+      "marathon": "Biegacz Maratoński",
+      "tech": "Profesjonalista Technologiczny",
+      "yoga": "Instruktor Jogi"
+    },
+    "content": {
+      "sarah": "Wreszcie narzędzie, które łączy HRV, sen i stres w sposób, który ma sens. Wnioski są możliwe do wdrożenia, nie przytłaczające.",
+      "marcus": "Trener AI naprawdę rozumie kontekst. To nie jest ogólna rada—jest spersonalizowana na podstawie moich rzeczywistych trendów danych.",
+      "emma": "Uwielbiam jak śledzi zdrowie skóry wraz z regeneracją. Zobaczenie korelacji między stresem a wypryskami było odkrywcze."
+    }
+  },
+  "login": {
+    "welcome": "Witaj ponownie",
+    "usernamePlaceholder": "Nazwa użytkownika (Frank lub Linda)",
+    "passwordPlaceholder": "Hasło",
+    "continue": "Kontynuuj",
+    "newHere": "Jesteś nowy?",
+    "error": {
+      "empty": "Proszę wprowadzić nazwę użytkownika i hasło",
+      "invalid": "Nieprawidłowa nazwa użytkownika lub hasło"
+    }
+  }
+}
+
+

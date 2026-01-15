@@ -1,0 +1,109 @@
+{
+  "brand": "Bienestar Sin Marca",
+  "tagline": "Insights mental, físico y piel — impulsados por HRV y coaching inteligente.",
+  "ctaPrimary": "Abrir app",
+  "ctaSecondary": "Leer blog",
+  "nav": { "home": "Inicio", "blog": "Blog", "pricing": "Precios", "login": "Iniciar sesión", "register": "Crear cuenta" },
+  "appNav": { "dashboard": "Panel", "sources": "Fuentes", "skin": "Salud de la Piel", "coach": "Coach IA", "reports": "Informes", "insights": "Insights", "leaderboard": "Clasificación", "settings": "Ajustes" },
+  "demo": "Entorno demo · Datos de ejemplo · No es consejo médico",
+  "hero": {
+    "badge": "Insights basados en HRV · Multiidioma · Privacidad primero",
+    "title": "Entiende las",
+    "titleHighlight": "señales reales de tu cuerpo",
+    "description": "Bienestar mental, físico y de la piel — impulsado por tendencias de HRV, análisis del sueño y un coach de IA que te ayuda a dar sentido a tus datos.",
+    "ctaPrimary": "Abrir la app",
+    "ctaSecondary": "Leer insights",
+    "features": {
+      "recovery": {
+        "title": "Insights de recuperación",
+        "description": "Tendencias de HRV, puntuaciones de preparación y orientación personalizada."
+      },
+      "mental": {
+        "title": "Bienestar mental",
+        "description": "Patrones de estrés, seguimiento del estado de ánimo y formación de hábitos."
+      },
+      "skin": {
+        "title": "Salud de la piel",
+        "description": "Rastrea desencadenantes, rutinas y correlaciones con el estrés."
+      }
+    }
+  },
+  "blog": {
+    "title": "Entender tu bienestar",
+    "subtitle": "Insights e Investigación",
+    "description": "Artículos basados en evidencia sobre HRV, recuperación, sueño, estrés y salud de la piel.",
+    "readTime": "min de lectura",
+    "backToBlog": "Volver al blog",
+    "posts": {
+      "the-recovery-loop": {
+        "title": "El Bucle de Recuperación: HRV, Sueño y Consistencia",
+        "excerpt": "Un marco práctico para interpretar las tendencias de HRV sin reaccionar excesivamente al ruido diario."
+      },
+      "stress-without-guessing": {
+        "title": "Estrés Sin Adivinar: Convirtiendo Señales en Acciones",
+        "excerpt": "Cómo conectar el estrés subjetivo, la frecuencia cardíaca en reposo y la deuda de sueño en una sola vista."
+      },
+      "skin-as-a-signal": {
+        "title": "La Piel como Señal: Un Rastreador Simple que Realmente Funciona",
+        "excerpt": "Una rutina mínima + seguimiento de desencadenantes supera los planes complejos que no seguirás."
+      }
+    }
+  },
+  "features": {
+    "subtitle": "Características completas",
+    "title": "Todo lo que necesitas para entender tu bienestar",
+    "description": "Una plataforma completa que conecta la salud mental, física y de la piel en un dashboard intuitivo.",
+    "items": {
+      "hrv": {
+        "title": "Tendencias y Análisis HRV",
+        "description": "Vistas de 7, 30 y 90 días con detección de anomalías, seguimiento de línea base e insights personalizados."
+      },
+      "mental": {
+        "title": "Bienestar Mental",
+        "description": "Reconocimiento de patrones de estrés, controles de estado de ánimo y sugerencias de hábitos accionables basadas en tus datos."
+      },
+      "physical": {
+        "title": "Recuperación Física",
+        "description": "Puntuaciones de preparación, orientación de carga de entrenamiento y recomendaciones de recuperación adaptadas a tu actividad."
+      },
+      "skin": {
+        "title": "Rastreador de Salud de la Piel",
+        "description": "Señales de autoevaluación, planificación de rutinas, identificación de desencadenantes y correlación con patrones de estrés."
+      },
+      "connectors": {
+        "title": "Conectores de Datos",
+        "description": "Integración perfecta con Apple Health, Android Health Connect, Oura y otros dispositivos de bienestar."
+      },
+      "multilang": {
+        "title": "Soporte Multiidioma",
+        "description": "Disponible en inglés, español, turco y polaco con localización completa."
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Confiado por atletas y entusiastas del bienestar",
+    "title": "Lo que dice la gente",
+    "roles": {
+      "marathon": "Corredor de Maratón",
+      "tech": "Profesional Tecnológico",
+      "yoga": "Instructor de Yoga"
+    },
+    "content": {
+      "sarah": "Finalmente, una herramienta que conecta HRV, sueño y estrés de manera que tenga sentido. Los insights son accionables, no abrumadores.",
+      "marcus": "El coach de IA realmente entiende el contexto. No es un consejo genérico, está personalizado basado en mis tendencias de datos reales.",
+      "emma": "Me encanta cómo rastrea la salud de la piel junto con la recuperación. Ver la correlación entre el estrés y los brotes fue revelador."
+    }
+  },
+  "login": {
+    "welcome": "Bienvenido de nuevo",
+    "usernamePlaceholder": "Usuario (Frank o Linda)",
+    "passwordPlaceholder": "Contraseña",
+    "continue": "Continuar",
+    "newHere": "¿Eres nuevo?",
+    "error": {
+      "empty": "Por favor ingresa usuario y contraseña",
+      "invalid": "Usuario o contraseña incorrectos"
+    }
+  }
+}
+

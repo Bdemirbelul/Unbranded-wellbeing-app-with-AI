@@ -1,0 +1,109 @@
+{
+  "brand": "Markasız Wellbeing",
+  "tagline": "Mental, fiziksel ve cilt içgörüleri — HRV ve akıllı koç ile.",
+  "ctaPrimary": "Uygulamayı aç",
+  "ctaSecondary": "Blogu oku",
+  "nav": { "home": "Anasayfa", "blog": "Blog", "pricing": "Fiyatlar", "login": "Giriş", "register": "Kayıt ol" },
+  "appNav": { "dashboard": "Dashboard", "sources": "Veri Kaynakları", "skin": "Cilt Sağlığı", "coach": "AI Koç", "reports": "Raporlar", "insights": "İçgörüler", "leaderboard": "Liderlik Tablosu", "settings": "Ayarlar" },
+  "demo": "Demo ortamı · Örnek veri · Tıbbi tavsiye değildir",
+  "hero": {
+    "badge": "HRV tabanlı içgörüler · Çok dilli · Gizlilik odaklı",
+    "title": "Vücudunuzun",
+    "titleHighlight": "gerçek sinyallerini anlayın",
+    "description": "Mental, fiziksel ve cilt sağlığı — HRV trendleri, uyku analizi ve verilerinizi anlamlandırmanıza yardımcı olan bir AI koç ile desteklenir.",
+    "ctaPrimary": "Uygulamayı aç",
+    "ctaSecondary": "İçgörüleri oku",
+    "features": {
+      "recovery": {
+        "title": "Toparlanma içgörüleri",
+        "description": "HRV trendleri, hazır olma skorları ve kişiselleştirilmiş rehberlik."
+      },
+      "mental": {
+        "title": "Mental sağlık",
+        "description": "Stres kalıpları, ruh hali takibi ve alışkanlık oluşturma."
+      },
+      "skin": {
+        "title": "Cilt sağlığı",
+        "description": "Tetikleyicileri, rutinleri ve stresle korelasyonları takip edin."
+      }
+    }
+  },
+  "blog": {
+    "title": "Sağlığınızı anlamak",
+    "subtitle": "İçgörüler ve Araştırma",
+    "description": "HRV, toparlanma, uyku, stres ve cilt sağlığı hakkında kanıta dayalı makaleler.",
+    "readTime": "dakika okuma",
+    "backToBlog": "Bloga dön",
+    "posts": {
+      "the-recovery-loop": {
+        "title": "Toparlanma Döngüsü: HRV, Uyku ve Tutarlılık",
+        "excerpt": "Günlük gürültüye aşırı tepki vermeden HRV trendlerini yorumlamak için pratik bir çerçeve."
+      },
+      "stress-without-guessing": {
+        "title": "Tahmin Etmeden Stres: Sinyalleri Eylemlere Dönüştürmek",
+        "excerpt": "Öznel stres, dinlenme kalp atışı ve uyku borcunu tek bir görünümde nasıl bağlayacağınız."
+      },
+      "skin-as-a-signal": {
+        "title": "Sinyal Olarak Cilt: Gerçekten İşe Yarayan Basit Bir Takipçi",
+        "excerpt": "Minimal bir rutin + tetikleyici takibi, takip etmeyeceğiniz karmaşık planlardan daha iyidir."
+      }
+    }
+  },
+  "features": {
+    "subtitle": "Kapsamlı özellikler",
+    "title": "Sağlığınızı anlamak için ihtiyacınız olan her şey",
+    "description": "Mental, fiziksel ve cilt sağlığını tek bir sezgisel dashboard'da birleştiren eksiksiz bir platform.",
+    "items": {
+      "hrv": {
+        "title": "HRV Trendleri ve Analizi",
+        "description": "Anomali tespiti, baseline takibi ve kişiselleştirilmiş içgörülerle 7, 30 ve 90 günlük görünümler."
+      },
+      "mental": {
+        "title": "Mental Sağlık",
+        "description": "Stres kalıbı tanıma, ruh hali kontrolü ve verilerinize dayalı eyleme geçirilebilir alışkanlık önerileri."
+      },
+      "physical": {
+        "title": "Fiziksel Toparlanma",
+        "description": "Hazır olma skorları, antrenman yükü rehberliği ve aktivitenize göre uyarlanmış toparlanma önerileri."
+      },
+      "skin": {
+        "title": "Cilt Sağlığı Takipçisi",
+        "description": "Kendi kendine kontrol sinyalleri, rutin planlama, tetikleyici tanımlama ve stres kalıplarıyla korelasyon."
+      },
+      "connectors": {
+        "title": "Veri Bağlayıcıları",
+        "description": "Apple Health, Android Health Connect, Oura ve diğer wellness cihazlarıyla sorunsuz entegrasyon."
+      },
+      "multilang": {
+        "title": "Çok Dilli Destek",
+        "description": "Tam yerelleştirme ile İngilizce, İspanyolca, Türkçe ve Lehçe olarak mevcuttur."
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Atletler ve wellness tutkunları tarafından güvenilen",
+    "title": "İnsanlar ne diyor",
+    "roles": {
+      "marathon": "Maraton Koşucusu",
+      "tech": "Teknoloji Profesyoneli",
+      "yoga": "Yoga Eğitmeni"
+    },
+    "content": {
+      "sarah": "Sonunda HRV, uyku ve stresi mantıklı bir şekilde bağlayan bir araç. İçgörüler eyleme geçirilebilir, bunaltıcı değil.",
+      "marcus": "AI koç gerçekten bağlamı anlıyor. Genel tavsiyeler değil—gerçek veri trendlerime dayalı kişiselleştirilmiş.",
+      "emma": "Cilt sağlığını toparlanmanın yanında takip etmesini seviyorum. Stres ve sivilce arasındaki korelasyonu görmek göz açıcıydı."
+    }
+  },
+  "login": {
+    "welcome": "Tekrar hoş geldiniz",
+    "usernamePlaceholder": "Kullanıcı adı (Frank veya Linda)",
+    "passwordPlaceholder": "Şifre",
+    "continue": "Devam et",
+    "newHere": "Yeni misiniz?",
+    "error": {
+      "empty": "Lütfen kullanıcı adı ve şifre giriniz",
+      "invalid": "Kullanıcı adı ve şifre hatalı"
+    }
+  }
+}
+
